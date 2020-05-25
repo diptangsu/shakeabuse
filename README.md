@@ -21,5 +21,6 @@ $ shkabuse
 Thou vain ill-nurtured bugbear!
 $ shkabuse
 Thou artless hasty-witted flap-dragon!
-
+$ shkabuse
+Methink'st thou art a general offence and every man should beat thee.
 ```
