@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: shakeabuse
+Version: 1.0.0
+Summary: Display a random shakespearean abuse on the console.
+Home-page: https://github.com/diptangsu/shakeabuse
+Author: Diptangsu Goswami
+Author-email: diptangsu.97@gmail.com
+License: MIT
+Description: # Shakeabuse
+        
+        A simple command line app to display a shakespearean abuse on the console
+        
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown

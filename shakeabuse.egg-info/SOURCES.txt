@@ -1,0 +1,9 @@
+README.md
+setup.py
+shakeabuse/__init__.py
+shakeabuse/__main__.py
+shakeabuse.egg-info/PKG-INFO
+shakeabuse.egg-info/SOURCES.txt
+shakeabuse.egg-info/dependency_links.txt
+shakeabuse.egg-info/entry_points.txt
+shakeabuse.egg-info/top_level.txt

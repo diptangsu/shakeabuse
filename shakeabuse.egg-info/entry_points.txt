@@ -1,0 +1,3 @@
+[console_scripts]
+shkabuse = shakeabuse.__main__:main
+
