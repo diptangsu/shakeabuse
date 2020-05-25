@@ -1,4 +1,25 @@
 # Shakeabuse
 
-A simple command line app to display a shakespearean abuse on the console
+A simple command line app to display a random shakespearean abuse on the console.
 
+## Installation
+
+```
+pip install shakeabuse
+```
+or, since you're probably using `python3`
+```
+pip3 install shakeabuse
+```
+
+## Usage
+
+```
+$ shkabuse
+Thou paunchy fly-bitten giglet!
+$ shkabuse
+Thou vain ill-nurtured bugbear!
+$ shkabuse
+Thou artless hasty-witted flap-dragon!
+
+```
