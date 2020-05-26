@@ -1,4 +1,5 @@
-from .abuses import *
+from .insults_parts import *
+from .insults_full import *
 import random
 
 
