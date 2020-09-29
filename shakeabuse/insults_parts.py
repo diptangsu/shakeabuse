@@ -59,6 +59,8 @@ ONE = (
     'poisonous',
     'fishified',
     'wart-necked',
+    'bespawl\'d',
+    'sorning',
 )
 
 TWO = (
@@ -146,6 +148,7 @@ THREE = (
     'flirt-gill',
     'foot-licker',
     'fustilarian',
+    'fustilugs',
     'giglet',
     'gudgeon',
     'haggard',
@@ -187,5 +190,17 @@ THREE = (
     'toad',
     'rascal',
     'basket-Cockle',
+    'glos pautonnier',
+    'doxy',
+    'skamelar',
+    'mandrake mymmerkin',
+    'levereter',
+    'ronyon',
+    'dorbel',
+    'fopdoodle',
+    'lubberwort',
+    'scobberlotcher',
+    'allow ketch',
+    'raggabrash',
 )
 
