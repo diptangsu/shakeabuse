@@ -4,6 +4,8 @@ from insults_full import *
 
 
 def generate_random_abuse():
+    # type: () -> str
+
     abuse = ' '.join(random.choice(x) for x in (FIRST_ADJECTIVES, SECOND_ADJECTIVES, NOUNS))
     constructed_abuse = 'Thou ' + abuse
     

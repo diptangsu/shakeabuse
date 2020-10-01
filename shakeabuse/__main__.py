@@ -2,6 +2,8 @@ from make_abuse import generate_random_abuse
 
 
 def main():
+    # type: () -> str
+
     random_abuse = generate_random_abuse()
     return random_abuse
 
