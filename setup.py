@@ -1,5 +1,6 @@
 import pathlib
 from setuptools import setup
+from shakeabuse import __version__
 
 
 # The directory containing this file
@@ -11,7 +12,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="shakeabuse",
-    version="1.0.0",
+    version=__version__,
     description="Display a random shakespearean abuse on the console.",
     long_description=README,
     long_description_content_type="text/markdown",
