@@ -63,6 +63,8 @@ FIRST_ADJECTIVES = (
     'poisonous',
     'fishified',
     'wart-necked',
+    'bespawl\'d',
+    'sorning',
 )
 
 SECOND_ADJECTIVES = (
@@ -191,5 +193,18 @@ NOUNS = (
     'toad',
     'rascal',
     'basket-Cockle',
+    'glos pautonnier',
+    'doxy',
+    'skamelar',
+    'mandrake mymmerkin',
+    'levereter',
+    'ronyon',
+    'dorbel',
+    'fopdoodle',
+    'lubberwort',
+    'scobberlotcher',
+    'allow ketch',
+    'raggabrash',
 )
+
 
