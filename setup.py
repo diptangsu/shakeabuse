@@ -30,7 +30,7 @@ setup(
     install_requires=[],
     entry_points={
         "console_scripts": [
-            "shkabuse=shakeabuse.__main__:main",
+            "shkabuse=shakeabuse.__main__:abuse",
         ]
     },
 )
