@@ -1,4 +1,4 @@
-ONE = (
+FIRST_ADJECTIVES = (
     'artless',
     'bawdy',
     'beslubbering',
@@ -61,7 +61,7 @@ ONE = (
     'wart-necked',
 )
 
-TWO = (
+SECOND_ADJECTIVES = (
     'base-court',
     'bat-fowling',
     'beef-witted',
@@ -118,15 +118,15 @@ TWO = (
     'lily-livered',
     'scurvy-valiant',
     'brazen-faced',
-    'unwash\'d',
-    'bunch-back\'d',
+    "unwash'd",
+    "bunch-back'd",
     'leaden-footed',
     'muddy-mettled',
-    'pigeon-liver\'d',
+    "pigeon-liver'd",
     'scale-sided',
 )
 
-THREE = (
+NOUNS = (
     'apple-john',
     'baggage',
     'barnacle',
