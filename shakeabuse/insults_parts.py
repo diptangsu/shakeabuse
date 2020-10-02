@@ -1,3 +1,7 @@
+"""A file that contains insults split in three parts.
+Two adjectives and a noun will be picked at random and an insult will be generated.
+"""
+
 FIRST_ADJECTIVES = (
     'artless',
     'bawdy',

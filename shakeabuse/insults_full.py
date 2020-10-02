@@ -1,3 +1,6 @@
+"""A file that contains complete insult sentences
+"""
+
 FULL_INSULTS = (
     'Thou clay-brained guts, thou knotty-pated fool, thou whoreson obscene greasy tallow-catch!',
     "Methink'st thou art a general offence and every man should beat thee.",
