@@ -14,6 +14,7 @@ FULL_INSULTS = (
     "Thou art a pigeon-liver'd and lack gall.",
     'Thou art unfit for any place but hell.',
     "Thou poisonous bunch-back'd toad!",
+    "Your mother was a hamster, and your father smelt of elderberries",
     "There's no more faith in thee than in a stewed prune.",
     'Peace, ye fat guts!',
     'Thou clay-brained guts, thou knotty-pated fool, thou whoreson obscene greasy tallow-catch!',
