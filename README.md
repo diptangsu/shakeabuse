@@ -1,3 +1,5 @@
+[![Downloads](https://pepy.tech/badge/shakeabuse)](https://pepy.tech/project/shakeabuse)
+
 # Shakeabuse
 
 A simple command line app to display a random shakespearean abuse on the console.
