@@ -80,5 +80,8 @@ FULL_INSULTS = (
     'Your brain is as dry as the remainder biscuit after voyage',
     'Virginity breeds mites, much like a cheese',
     'Villain, I have done thy mother',
+    'Heaven truly knows that thou art false as hell.',
+    'Out of my sight! Thou dost infect my eyes.',
+    'Thou art a boil, a plague sore, an embossed carbuncle in my corrupted blood.',
 )
 
